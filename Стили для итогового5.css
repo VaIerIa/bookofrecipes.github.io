@@ -1,0 +1,85 @@
+body {
+	
+	background-image: url(wood-2879244.jpg) ;
+	background-size: cover;
+	background-color: #fff1a1; 
+}
+LIST{
+	margin-top: 20pt;
+	display:block;
+	width: 100%;
+    background-color:rgb(20, 0, 0);
+}
+KURS{
+    display:block;
+    color:rgb(255, 236, 149);
+    text-align: left;
+    margin-left:20pt;
+    font-family: comic sans ms;
+    font-size: 18pt;
+}
+AUTHOR{
+    display:block;
+    color:rgb(255, 236, 149);
+    text-align: left;
+    margin-left:25pt;
+    font-family: comic sans ms;
+    font-size: 16pt;
+}
+NAME{
+    display:block;
+    color:rgb(255, 236, 149);
+    text-align: left;
+    margin-left:30pt;
+    font-family: comic sans ms;
+    font-size: 14pt;
+}
+SPEC{
+    display:block;
+    color:rgb(255, 236, 149);
+    text-align: left;
+    margin-left:30pt;
+    font-family: comic sans ms;
+    font-size: 14pt;
+}
+hr {
+	border: none;
+	background-color: rgb(90, 36, 0); 
+	height: 2px; 
+	margin-top:11px;
+	width:90%;
+}
+.name{
+	margin-top: 50px;
+	margin-left: 20px;
+	padding-left: 5px;
+	
+}
+#text{
+	text-align: center;
+	font-family: comic sans ms;
+	font-size: 48px;
+	color:rgb(70, 2, 2);
+	margin-top: 6%;
+}
+a.button.rss {
+	background: #f6c696;
+	background: linear-gradient(#f6c696, #e9893d);
+	border: solid 1px #a1681b;
+	border-bottom: solid 3px #a1671d;
+	box-shadow: inset 0 0 0 1px #f1bb8f;
+	color: #fff;
+	text-shadow: 0 1px 0 #a1671d; 
+	font: bold 12px Arial, Helvetica, Clean, sans-serif;
+	text-decoration: none;
+	margin-left: 1400px;
+	padding: 10px 20px;
+}
+a.button.rss:hover {
+	background: #e9893d;
+	background: linear-gradient(#e9893d, #f6c696);
+	border: solid 1px #a1681b;
+	border-bottom: solid 3px #a1671d;
+	box-shadow: inset 0 0 0 1px #f1bb8f; 
+}
+
